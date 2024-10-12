@@ -1,0 +1,14 @@
+jax==0.4.28
+jax-cuda12-pjrt==0.4.28
+jax-cuda12-plugin==0.4.28
+jaxlib==0.4.28
+jaxtyping==0.2.29
+optax==0.2.2
+dm-haiku==0.0.12
+tensorboard==2.15.2
+tensorboard-data-server==0.7.2
+tensorboardX==2.6.2.2
+tensorflow==2.15.0
+tensorflow-estimator==2.15.0
+tensorflow-io-gcs-filesystem==0.37.0
+tensorstore==0.1.59
